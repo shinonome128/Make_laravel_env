@@ -11,6 +11,5 @@ __pycache__/
 *.swp
 *.result
 *.sh
-*.md
 *.zip
 *.tsv

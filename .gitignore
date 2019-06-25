@@ -1,0 +1,16 @@
+# .gitignore
+DATA/
+RESULT/
+app/
+code/
+svn/
+.svn/
+.vagrant/
+.DS_Store
+__pycache__/
+*.swp
+*.result
+*.sh
+*.md
+*.zip
+*.tsv
